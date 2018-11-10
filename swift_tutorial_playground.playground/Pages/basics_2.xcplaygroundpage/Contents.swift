@@ -13,3 +13,13 @@ let pi = 3.142
 print("the value of pi is \(pi)")
 
 
+let msg = """
+
+    This is a multi line
+    string from swift
+
+"""
+print(msg)
+
+
+

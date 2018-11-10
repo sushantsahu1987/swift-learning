@@ -3,5 +3,6 @@
     <pages>
         <page name='basics_2'/>
         <page name='basics_1'/>
+        <page name='containers'/>
     </pages>
 </playground>
